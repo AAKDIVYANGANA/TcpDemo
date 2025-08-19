@@ -1,0 +1,14 @@
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\bin\Debug\net8.0\TcpServer.exe
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\bin\Debug\net8.0\TcpServer.deps.json
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\bin\Debug\net8.0\TcpServer.runtimeconfig.json
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\bin\Debug\net8.0\TcpServer.dll
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\bin\Debug\net8.0\TcpServer.pdb
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfo.cs
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.dll
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\refint\TcpServer.dll
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.pdb
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\TcpServer.genruntimeconfig.cache
+C:\Users\Sathmi Rayanika\TcpDemo\TcpServer\obj\Debug\net8.0\ref\TcpServer.dll
